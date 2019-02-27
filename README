@@ -1,0 +1,11 @@
+##################################################
+#   History                                      #
+##################################################
+
+= [4.0.1] 26. Feb. 2019. by Hoyong Jeong =
+  - Enable dE smearing and add resolution option in config
+  - Fix threshold values for layers. I followed rootsorter default options. (MCFilterFDScint.rc)
+  - Some modification for scripts/CheckData.C
+
+= [4.0.0] 28. Jan. 2019. by Hoyong Jeong =
+  - First version of wmc4
